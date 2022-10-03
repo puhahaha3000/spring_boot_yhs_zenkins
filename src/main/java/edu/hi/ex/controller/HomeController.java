@@ -11,7 +11,7 @@ public class HomeController {
 
 	@GetMapping
 	public String home() {
-		return "Hello Zenkins";
+		return "Hello Zenkins with webhooks";
 	}
 
 
